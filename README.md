@@ -1,10 +1,10 @@
 # whatdoyoumeme-
-# Hello, my name is John Murray. I am a undergraduate student taking this
-# class to fulfil elective requirements to finish my degree in Computer
-# Science. To date, I've taken many Computer related courses, and I am 
-# most familiar with programming in Java, however I have done HTML, 
-# Javascript, and CSS in the past and have been using the 
-# w3schools guides to brush back up on my skills with them.
+Hello, my name is John Murray. I am a undergraduate student taking this
+class to fulfil elective requirements to finish my degree in Computer
+Science. To date, I've taken many Computer related courses, and I am 
+most familiar with programming in Java, however I have done HTML, 
+Javascript, and CSS in the past and have been using the 
+w3schools guides to brush back up on my skills with them.
 
 # I can definitely see myself making use of the skills taught in this class.
 # As of yet it has been among the most practical classes I've taken so far,
